@@ -23,6 +23,8 @@ modified: '2026-05-02'
 specificationVersion: '0.19'
 apis: []
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/spectra-energy
   - type: Website
     url: https://www.enbridge.com
     x-note: Spectra Energy was acquired by Enbridge in 2017; website redirects to Enbridge.
