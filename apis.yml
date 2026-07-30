@@ -9,7 +9,18 @@ description: >-
   acquired by Enbridge Inc. in an all-stock deal valued at approximately $28
   billion and no longer operates as an independent entity.
 type: Index
-image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/spectra-energy.png
 tags:
   - Energy
   - Natural Gas
