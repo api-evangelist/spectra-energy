@@ -9,6 +9,17 @@ description: >-
   acquired by Enbridge Inc. in an all-stock deal valued at approximately $28
   billion and no longer operates as an independent entity.
 type: Index
+deliveryModel:
+  model: unknown
+  open_source: false
+  commercial: false
+  callable_host: false
+  label: Delivery model not determined — needs a product licence on record
+  confidence: low
+  source:
+  - none
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
