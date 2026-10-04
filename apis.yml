@@ -65,3 +65,8 @@ common:
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
+x-status: acquired
+x-acquired-by: "Enbridge"
+x-acquired-date: '2017-02'
+x-status-source: "https://www.spectraenergy.com/"
+x-status-evidence: "spectraenergy.com 301-redirects to www.enbridge.com (probed 2026-10-03); Enbridge and Spectra Energy completed their merger in February 2017. Enbridge is not in the catalog (roadmap#812)"
