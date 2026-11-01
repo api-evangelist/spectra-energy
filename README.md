@@ -64,35 +64,44 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Spectra Energy was a Fortune 500 American energy company headquartered in Houston, Texas, focused on natural gas transmission and storage, distribution, and gathering and processing. Founded in 2007 as a spin-off from Duke Energy, Spectra Energy was acquired by Enbridge Inc. in February 2017 and no longer operates as an independent entity.
+> **Acquired or rebranded.** This company was acquired, merged or renamed. Its API, if it still exists, is offered under another name. This profile is kept as a historical record and is not maintained or rated.
 
-## Scope
+Spectra Energy was a Fortune 500 American energy company headquartered in Houston, Texas, focused on natural gas transmission and storage, distribution, and gathering and processing. Founded in 2007 as a spin-off from Duke Energy, Spectra Energy operated the Texas Eastern Pipeline and other major North American natural gas infrastructure. In February 2017, Spectra Energy was acquired by Enbridge Inc. in an all-stock deal valued at approximately $28 billion and no longer operates as an independent entity.
 
-- **Type:** Index
-- **Access:** 3rd-Party
-- **Status:** Acquired by Enbridge (2017)
+**Areas:** Energy · Natural Gas · Oil and Gas · Pipelines · Utilities · Fortune 500
 
-## Tags
+## Spectra Energy on APIs.io (historical record)
 
-Energy, Natural Gas, Oil and Gas, Pipeline, Utilities
+Everything profiled for Spectra Energy is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/spectra-energy/](https://apis.io/providers/spectra-energy/)** — or go straight to one of the APIs or properties below.
 
-## Timestamps
+### Published properties
 
-- **Created:** 2026-03-24
-- **Modified:** 2026-05-02
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-## Common Resources
+#### Security (1)
 
-| Type | URL |
-|------|-----|
-| Website (Enbridge) | [https://www.enbridge.com](https://www.enbridge.com) |
-| Wikipedia | [https://en.wikipedia.org/wiki/Spectra_Energy](https://en.wikipedia.org/wiki/Spectra_Energy) |
+Authentication, trust centre, and vulnerability disclosure.
 
-## Notes
+- [Spectra Energy Domain Security](https://apis.io/security/spectra-energy/spectra-energy-domain-security/)
 
-Spectra Energy was acquired by Canadian pipeline operator Enbridge Inc. on February 27, 2017 in an all-stock deal valued at approximately $28 billion. No public APIs were offered as an independent company. The former website (spectraenergy.com) now redirects to enbridge.com.
+## Where to find this API
 
-## Maintainers
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
-**FN:** Kin Lane
-**Email:** kin@apievangelist.com
+- [Website](https://www.enbridge.com)
+
+## API Evangelist rating
+
+**Not rated** — this company is recorded as acquired or rebranded, so no score is published. If it is in fact operating, say so on this repository and it will be re-profiled.
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Spectra Energy: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/spectra-energy/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
